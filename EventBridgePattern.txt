@@ -1,0 +1,11 @@
+{
+  "source": ["aws.securityhub"],
+  "detail": {
+    "findings": {
+      "ProductName": ["Inspector"],
+      "Severity": {
+        "Label": ["HIGH", "CRITICAL"]
+      }
+    }
+  }
+}
